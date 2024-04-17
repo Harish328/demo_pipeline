@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: census-income
+Version: 0.1
+Author: harish
+Author-email: gupta.harish328@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: flask

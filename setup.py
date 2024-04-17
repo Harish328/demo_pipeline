@@ -5,5 +5,5 @@ setup(name="census-income",
       author="harish",
       author_email="gupta.harish328@gmail.com",
       packages=find_packages(),
-      install_requires=[pandas,numpy,flask]
+      install_requires=["pandas","numpy","flask"]
       )
